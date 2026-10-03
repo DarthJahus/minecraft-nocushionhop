@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "net.jahus.nocushionhop.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["CushionMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
